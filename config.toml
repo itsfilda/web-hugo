@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Filip CV"
+
+[params.footer]
+    copyright = "Filip Slezák"
